@@ -611,6 +611,6 @@ Examples of JsonPath:
 
 [GitHub Acitons link]: https://github.com/gravity9-tech/json-patch-path/actions/workflows/push-workflow.yaml
 
-[Maven Central badge]: https://img.shields.io/maven-central/v/com.github.java-json-tools/json-patch.svg
+[Maven Central badge]: https://img.shields.io/maven-central/v/com.gravity9/json-patch-path.svg
 
-[Maven]: https://search.maven.org/artifact/com.github.java-json-tools/json-patch
+[Maven]: https://search.maven.org/artifact/com.gravity9/json-patch-path
